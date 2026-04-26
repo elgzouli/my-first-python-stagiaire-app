@@ -21,4 +21,4 @@ This project helped me understand how to think step by step when building a prog
 - Add file saving
 - Improve code structure using functions
 ## Demo
-![App Screenshot](demo.png)
+![Stagiaire Manager](stagiaire-manager-demo.png)
