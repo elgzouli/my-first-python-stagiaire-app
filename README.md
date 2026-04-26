@@ -20,3 +20,5 @@ This project helped me understand how to think step by step when building a prog
 ## Next step
 - Add file saving
 - Improve code structure using functions
+## Demo
+![App Screenshot](demo.png)
